@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Just ano
+New student in the coursera data scientist specialization.
