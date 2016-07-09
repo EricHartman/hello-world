@@ -1,5 +1,12 @@
 # hello-world
-Just ano
-New student in the coursera data scientist specialization.
-on local repository
-change 3
+
+## Markdown Information
+
+### Headings
+Made by using the pound sign
+*1 # sign is a page heading
+*1 # signs is a secondary heading
+*3 # signs is a tertiary heading
+
+### Lists
+Lists are made by having a * at the beginning
